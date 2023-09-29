@@ -5,7 +5,10 @@
 
 
 pool:  
-  vmImage: 'ubuntu-18.04' 
+  #vmImage: 'ubuntu-18.04' 
+  name: Default
+  demands:
+  - Agent.Version -equals 3.225.0
   
 trigger: 
     - master
