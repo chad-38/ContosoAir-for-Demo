@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/learnmachine2021/Azure-DevOps-Training/_apis/build/status%2Fchad-38.ContosoAir-for-Demo?branchName=main)](https://dev.azure.com/learnmachine2021/Azure-DevOps-Training/_build/latest?definitionId=1&branchName=main)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
